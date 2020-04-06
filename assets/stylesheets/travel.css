@@ -250,7 +250,9 @@ th {
  target the h3 element within the element with the id of travel-table 
   - center align the text
 */
-
+#travel-table h3 {
+  text-align: center;
+}
 
 /*
  target the footer element
@@ -258,7 +260,11 @@ th {
   - height to 100px
   - line height to 100px
 */
-
+footer {
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+}
 
 
 /*
