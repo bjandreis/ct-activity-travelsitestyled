@@ -164,7 +164,9 @@ target the element with the class of card that also has an id of chile
 /*
  target the nav element and float it to the right
 */
-
+nav {
+  float: right;
+}
 
  /*
  target the element with the id of nav-list
