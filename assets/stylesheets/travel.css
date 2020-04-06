@@ -241,7 +241,10 @@ th {
   - make the text color black
   - make the background color white
 */
-
+#travel-table {
+  background-color: white;
+  color: black;
+}
 
 /*
  target the h3 element within the element with the id of travel-table 
