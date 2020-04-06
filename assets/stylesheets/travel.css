@@ -157,7 +157,9 @@ target the element with the class of card that also has an id of chile
 /*
  target the element with the id of logo and float it to the left
 */
-
+#logo {
+  float: left;
+}
 
 /*
  target the nav element and float it to the right
