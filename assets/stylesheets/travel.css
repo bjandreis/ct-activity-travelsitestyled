@@ -73,7 +73,18 @@ target the elements with a class of card and set the following properties:
  - background size to contain //Scale the image to the largest size such that both its width and its height can fit inside the content area
  - background to not repeat
 */
-
+.card {
+  width: 20%;
+  height: 300px;
+  margin: 2.5%;
+  padding-top: 15%;
+  float: left;
+  background-color: white;
+  text-align: center;
+  color: black;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
 
  
 /*
