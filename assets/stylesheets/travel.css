@@ -198,7 +198,10 @@ nav {
   - remove the underline from the links
   - make sure the text is white
 */
-
+header a {
+  text-decoration: none;
+  color: white;
+}
 
 
 /*
