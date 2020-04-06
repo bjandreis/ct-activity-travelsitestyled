@@ -221,7 +221,9 @@ table {
  target the tr, td, and th elements
   - give a 2px black solid border to the table
 */
-
+tr,td,th {
+  border: 2px solid black;
+}
 
 
 /*
@@ -229,7 +231,10 @@ table {
   - background color to black
   - text color to white
 */
-
+th {
+  background-color: black;
+  color: white;
+}
 
 /*
  target the element with the id of travel-table 
