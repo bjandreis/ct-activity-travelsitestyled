@@ -51,7 +51,13 @@ target the elements with a class of page-row and set the following properties:
  - give the element a padding of 5%
  - give the element a margin of 2% on the top and bottom
 */
-
+.page-row {
+  width: 100%;
+  clear: both;
+  padding: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
 
 
 /*
