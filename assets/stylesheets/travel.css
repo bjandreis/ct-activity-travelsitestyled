@@ -39,7 +39,9 @@ h2 {
 /*
 style the element with the id of header-statement to have centered text
 */
-
+#header-statement {
+  text-align: center;
+}
 
 
 /*
