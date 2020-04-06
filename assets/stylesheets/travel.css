@@ -210,7 +210,11 @@ header a {
   - collapse the border to remove spacing between cells
   - make the width 100%
 */
-
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 100%;
+}
 
 
 /*
