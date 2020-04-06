@@ -110,27 +110,35 @@ target the element with the id of hero and set the following properties
 target the element with the class of card that also has an id of spain
  - set the background image to (spain_flag.svg) in our assets/images directory
 */
-
+#spain.card {
+  background-image: url(../images/spain_flag.svg);
+}
 
 /*
 target the element with the class of card that also has an id of italy
 - set the background image to (italy_flag.svg) in our assets/images directory
 */
-
+#italy.card {
+  background-image: url(../images/italy_flag.svg);
+}
 
 
 /*
 target the element with the class of card that also has an id of aruba
 - set the background image to (aruba_flag.svg) in our assets/images directory
 */
-
+#aruba.card {
+  background-image: url(../images/aruba_flag.svg);
+}
 
 
 /*
 target the element with the class of card that also has an id of chile
 - set the background image to (chile_flag.svg) in our assets/images directory
 */
-
+#chile.card {
+  background-image: url(../images/chile_flag.svg);
+}
 
 
 /*
