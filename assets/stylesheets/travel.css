@@ -173,7 +173,11 @@ nav {
   - remove all margin and padding
   - remove bullets from the unorder list
 */
-
+#nav-list {
+  margin: unset;
+  padding: unset;
+  list-style-type: none;
+}
 
 /*
  target the elements with the class of nav-link
